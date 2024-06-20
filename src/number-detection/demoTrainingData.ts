@@ -1,4 +1,3 @@
-import { NeuralNetworkTrainingDataItem } from "../lib/types";
 
 export const demoTrainingData = [
   {

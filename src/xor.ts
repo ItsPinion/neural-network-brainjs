@@ -1,7 +1,5 @@
-import { INeuralNetworkOptions } from "brain.js/dist/neural-network-types";
 import "./style.css";
 import * as brain from "brain.js";
-import { INeuralNetworkTrainOptions } from "brain.js/dist/neural-network";
 
 const config = {
   binaryThresh: 0.5, // ¯\_(ツ)_/¯
